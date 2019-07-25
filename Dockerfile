@@ -1,4 +1,4 @@
-FROM java:8-jdk-alpine
+FROM 127.0.0.1:5000/hello-world
 
 WORKDIR /docker
 
